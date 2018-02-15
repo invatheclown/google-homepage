@@ -1,0 +1,49 @@
+/* Top Nav */
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li a{
+	display: inline-flex;
+	color: gray;
+}
+
+
+.right-nav{
+	float: right;
+}
+
+.right-nav li{
+	float: left;
+}
+
+
+/*
+
+.left-nav{
+	float: left;	
+}
+
+li a {
+		display: block;
+}
+
+a:link {
+	color:gray;
+	text-decoration: none;
+}
+
+a:hover {
+	color:gray;
+	text-decoration: underline;
+}
+
+.right-nav{
+	float:right;
+}
+
+*/
